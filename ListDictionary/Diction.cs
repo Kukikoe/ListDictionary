@@ -15,8 +15,17 @@ namespace ListDictionary
                 {
                     index = dic.Value;
                 }
+                else
+                {
+                    Exist();
+                    break;
+                }
             }
             return index;
+        }
+        public void Exist()
+        {
+            Console.WriteLine("\nYour key doesn't exist");
         }
         public string LinqFind(Dictionary<int, string> dictionary, int number)
         {

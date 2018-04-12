@@ -16,6 +16,7 @@ namespace ListDictionary
             }
             Console.WriteLine("\n\nEnter value: ");
             string number = Console.ReadLine();
+
             Console.WriteLine("Your value is at the index: " + schedule.SimpleFind(list, int.Parse(number)));
             Console.WriteLine("Your value is at the index (LINQ): " + schedule.LinqFind(list, int.Parse(number)));
 

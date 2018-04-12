@@ -1,0 +1,7 @@
+C:\Users\Яна\source\repos\ListDictionary\ListDictionary\bin\Debug\ListDictionary.exe.config
+C:\Users\Яна\source\repos\ListDictionary\ListDictionary\bin\Debug\ListDictionary.exe
+C:\Users\Яна\source\repos\ListDictionary\ListDictionary\bin\Debug\ListDictionary.pdb
+C:\Users\Яна\source\repos\ListDictionary\ListDictionary\obj\Debug\ListDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Яна\source\repos\ListDictionary\ListDictionary\obj\Debug\ListDictionary.exe
+C:\Users\Яна\source\repos\ListDictionary\ListDictionary\obj\Debug\ListDictionary.pdb
+C:\Users\Яна\source\repos\ListDictionary\ListDictionary\obj\Debug\ListDictionary.csprojResolveAssemblyReference.cache

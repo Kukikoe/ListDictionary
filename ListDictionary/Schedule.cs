@@ -15,8 +15,17 @@ namespace ListDictionary
                 {
                     index = i;
                 }
+                else
+                {
+                    Exist();
+                    break;
+                }
             }
             return index;
+        }
+        public void Exist()
+        {
+            Console.WriteLine( "\nYour number doesn't exist");
         }
         public int LinqFind(List<int> list, int number)
         { 
